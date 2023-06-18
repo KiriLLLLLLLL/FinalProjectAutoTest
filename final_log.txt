@@ -1,0 +1,5 @@
+2023-47-06/18/23 11:47:06 INFO ====== WebDriver manager ======
+2023-47-06/18/23 11:47:06 INFO Driver [/home/kirill/.wdm/drivers/chromedriver/linux64/114.0.5735.90/chromedriver] found in cache
+2023-47-06/18/23 11:47:07 INFO Test1 Starting
+2023-47-06/18/23 11:47:12 INFO Test2 Starting
+2023-47-06/18/23 11:47:23 INFO Test3 Starting

@@ -1,0 +1,6 @@
+user: NinkaYa
+pass: 877fd0f309
+nikto: nikto -h https://test-stand.gb.ru/ -ssl -Tuning 4
+url: https://test-stand.gb.ru/gateway/login
+profile_user: https://test-stand.gb.ru/api/users
+id: 157
